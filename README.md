@@ -1,33 +1,54 @@
-## Hey 👋, I'm Omar Mohamed!
+## 👋 Hey there, I'm Omar Mohammed!
 
-أنا مبرمج Flutter أدرس في كلية حاسبات ومعلومات - أكتوبر، عندي شغف كبير بتطوير التطبيقات باستخدام Flutter وأحب أتعلم تقنيات جديدة دايمًا وأشتغل على مشاريع حقيقية تطورني.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-mohammed-3a66652a5/)
+[![GitHub](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/omar8157)
 
-<br/>
+### 🚀 About Me
+I’m a Flutter developer passionate about building high-quality mobile applications with clean and scalable code. Currently studying Computer Science at October University for Modern Sciences and Arts (MSA), I'm 20 years old and constantly exploring new technologies and tools to improve my skills.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-### 🧐 نبذة عني:
-
-- 🔭 &nbsp; أعمل حاليًا على بعض التطبيقات باستخدام Flutter وFirebase
-- 🤝 &nbsp; أبحث عن فرص تدريب أو شغل في بيئة تساعدني أطور نفسي وأفيد الفريق
-- 🌱 &nbsp; أتعلم حالياً تحسين الأداء في Flutter + استخدام Provider وRiverpod
-- 👨🏻‍💻 &nbsp; عندي مشاريع تقدر تشوفها على [GitHub](https://github.com/omar-mohamed) 
-- 📫 &nbsp; تقدر تتواصل معايا على [LinkedIn](https://www.linkedin.com/in/omar-mohamed/) 
-
-<br/>
-
-### 🔨 اللغات والأدوات اللي بستخدمها:
-<a href="https://flutter.dev" target="_blank"><img align="left" alt="Flutter" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></a>
-<a href="https://dart.dev" target="_blank"><img align="left" alt="Dart" height="42px" src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png"></a>
-<a href="https://firebase.google.com/" target="_blank"><img align="left" alt="Firebase" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
-
-<br/><br/>
-
-### 📌 هدفي:
-أطور من مهاراتي كمطور تطبيقات باستخدام Flutter، وأشتغل على مشاريع حقيقية، وأكون جزء من شركة أو تيم أتعلم منه وننجح سوا 🚀
+- 🌱 I’m currently learning advanced Dart & Flutter patterns.
+- 👨‍💻 Most of my work is available on [GitHub](https://github.com/omar8157)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/omar-mohammed-3a66652a5/)
+- 💡 Always open to freelance and internship opportunities.
+- 🎯 Interested in mobile development, backend systems, and software architecture.
 
 ---
 
+### 🛠️ Tech Stack
+
+#### Mobile & Frontend
+<a href="#"><img alt="Flutter" height="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flutter/flutter.png"/></a>
+<a href="#"><img alt="Dart" height="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/dart/dart.png"/></a>
+
+#### Backend & Database
+<a href="#"><img alt="Firebase" height="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/firebase/firebase.png"/></a>
+<a href="#"><img alt="SQLite" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/></a>
+
+#### Tools & Platforms
+<a href="#"><img alt="Git" height="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"/></a>
+<a href="#"><img alt="VS Code" height="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"/></a>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar8157&show_icons=true&hide_border=true&count_private=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar8157&layout=compact&hide_border=true&theme=react"/>
+</div>
+
+---
+
+### 📌 Currently Working On
+- Personal portfolio app using Flutter & Firebase 🔥
+- A mobile attendance system with QR check-in/out.
+
+---
+
+### 💬 Feel free to reach out!
+I'm always excited to collaborate or help with anything tech-related. Whether it's mobile development, Dart questions, or just general programming talk — don’t hesitate to connect!
+
+---
+
+_Thanks for visiting my profile!_
 
