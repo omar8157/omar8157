@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/omar8157)
 
 ### 🚀 About Me
-I’m a Flutter developer passionate about building high-quality mobile applications with clean and scalable code. Currently studying Computer Science at October University for Modern Sciences and Arts (MSA), I'm 20 years old and constantly exploring new technologies and tools to improve my skills.
+I’m a Flutter developer passionate about building high-quality mobile applications with clean and scalable code. Currently studying Computer Science at October University , I'm 20 years old and constantly exploring new technologies and tools to improve my skills.
 
 - 🌱 I’m currently learning advanced Dart & Flutter patterns.
 - 👨‍💻 Most of my work is available on [GitHub](https://github.com/omar8157)
